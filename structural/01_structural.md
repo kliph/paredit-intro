@@ -15,7 +15,7 @@
 !SLIDE transition=fade
 # Slurp Backwards - \^⇧9
     @@@ clojure
-    (foo :bar (:baz| :quux :zot)
+    (foo :bar (:baz| :quux) :zot)
 
     (foo (:bar :baz| :quux) :zot)
 
