@@ -3,13 +3,15 @@
 ## by Cliff Rodgers
 ## @2kliph
 
-!SLIDE
+!SLIDE transition=scrollUp
 # Obligatory XKCD
 ![xkcd](https://imgs.xkcd.com/comics/lisp_cycles.png)
 
-!SLIDE
+!SLIDE bullets incremental transition=scrollUp
 # Outline
-TODO: Outline it up
+- What is paredit?
+- How do you use paredit?
+- What are some common gotchas?
 
 !SLIDE bullets incremental transition=scrollUp
 # What is paredit?
