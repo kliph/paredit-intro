@@ -1,6 +1,10 @@
 {
   "name": "Paredit: A short introduction to structural editing",
   "sections": [
-    {"section":"intro"}
+    {"section":"intro"},
+    {"section":"inserting"},
+    {"section":"structural"},
+    {"section":"gotchas"},
+    {"section":"outro"}
   ]
 }
