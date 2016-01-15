@@ -1,5 +1,6 @@
 {
   "name": "Paredit: A short introduction to structural editing",
+  "highlight": "solarized_dark",
   "sections": [
     {"section":"intro"},
     {"section":"inserting"},
