@@ -1,4 +1,4 @@
-!SLIDE bullets incremental transition=scrollUp
+!SLIDE bullets transition=scrollUp
 # Inserting
 - Typing delimiters inserts
   - `(`
