@@ -1,4 +1,15 @@
 !SLIDE transition=scrollUp
+# Live Demo
+![rock and roll](http://i.giphy.com/z5jHiYKJ4F34A.gif)
+
+!SLIDE transition=scrollUp
+# Use the force
+# Paredit
+![xkcd](https://imgs.xkcd.com/comics/lisp_cycles.png)
+
+A more civilized way to use these elegant weapons.
+
+!SLIDE
 # Thanks!
 ![Bendyworks logo](https://dczjd33fj4t4h.cloudfront.net/assets/images/bendyworks-logo.svg)
 
@@ -11,4 +22,4 @@ Shoutout to Dan Midwood's blog post
 
 The [Paredit Reference Card](http://pub.gajendra.net/src/paredit-refcard.pdf) is really helpful when learning.
 
-This presentation is [available on github](https://github.com/kliph/paredit-intro).
+This presentation is available on github [github.com/kliph/paredit-intro](https://github.com/kliph/paredit-intro).
