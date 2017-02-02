@@ -48,7 +48,7 @@ Here are some sensible keybindings for Cursive
 
 !SLIDE
 # Setting up Cursive keybindings
-![Cursive keybindings](https://cursive-ide.com/archive/441/Screen%20Shot%202014-10-01%20at%204.21.16%20PM.png)
+![Cursive keybindings](https://cursive-ide.com/userguide/images/keybindings.png)
 
 !SLIDE bullets
 # **Slurping** and **Barfing** work on a variety of datatypes
